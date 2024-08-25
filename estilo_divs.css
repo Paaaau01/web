@@ -1,0 +1,42 @@
+.cuadrado_1{
+    width: 500px;
+    height: 850px;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 20px;
+    background-color: green;
+}
+.cuadrado_2{
+    width: 350px;
+    height: 700px;
+    background-color: white;
+    margin:auto;
+    padding: 20px;
+    margin-top: 50px;
+}
+.cuadrado_3{
+    background-color:rgb(184, 140, 31);
+    width: 300px;
+    height: 650px;
+    margin:auto;
+}
+.cont_menu{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-top: 20px;
+    color: rgb(5, 45, 177);
+}
+.cuadro_name{
+    width: 410px;
+    height: 80px;
+    font-family:'Times New Roman', Times, serif;
+    margin:auto;
+    margin-bottom: 40px;
+    background-color: rgb(218, 134, 213);
+}
+.cuadro_name h2{
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+}
